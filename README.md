@@ -12,12 +12,6 @@ Computer Science Student<br>Aspiring Web-Dev<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=Elmatzidis&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elmatzidis&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Elmatzidis&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Elmatzidis&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
