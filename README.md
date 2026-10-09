@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Student<br>Aspiring Web-Dev<br>
+Computer Science Student
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pauloselmatzidis2006@gmail.com) 
